@@ -1,6 +1,6 @@
 1. Project Title
 
-Manual Testing of OpenCart E-Commerce Application
+    Manual Testing of OpenCart E-Commerce Application
 
 2. Project Description
 
